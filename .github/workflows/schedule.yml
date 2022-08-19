@@ -13,5 +13,5 @@ jobs:
         uses: roylee0704/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_ID: 978fa591ce9ee554105e6c920080bef0
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
